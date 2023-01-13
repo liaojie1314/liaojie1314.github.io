@@ -1,0 +1,1 @@
+let TT=null;function debounce(e,t){null!==TT&&clearTimeout(TT),TT=setTimeout(e,t)}function randomPost(){fetch("/baidusitemap.xml").then((e=>e.text())).then((e=>(new window.DOMParser).parseFromString(e,"text/xml"))).then((e=>{let t=e.querySelectorAll("url loc");for(;;){let e=t[Math.floor(Math.random()*t.length)].innerHTML;if(location.href!=e)return void(location.href=e)}}))}
