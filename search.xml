@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>ubuntu22.04更新cmake</title>
+      <link href="/posts/170c5cd0.html"/>
+      <url>/posts/170c5cd0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="检查是否安装cmake">检查是否安装<code>cmake</code></h2><p>查看<code>cmake</code>版本：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo cmake --version</span><br></pre></td></tr></table></figure><p>如果输出如下，表示未安装<code>cmake</code></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo: cmake: command not found</span><br></pre></td></tr></table></figure><h2 id="使用apt-get安装cmake">使用apt-get安装<code>cmake</code></h2><p>注意：使用<code>apt-get</code>安装的是低版本的<code>cmake</code>。</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get -y install cmake</span><br></pre></td></tr></table></figure><p>查看版本，如下：</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ sudo cmake --version</span><br><span class="line">cmake version 3.16.3</span><br></pre></td></tr></table></figure><p>很多时候，低版本的<code>cmake</code>并不能满足我们的需求。</p><p>卸载<code>apt-get</code>安装的<code>cmake</code>：</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt -y remove cmake</span><br></pre></td></tr></table></figure><h2 id="源码安装指定版本cmake">源码安装指定版本<code>cmake</code></h2><p>通过源码安装，我们可以安装指定版本的<code>cmake</code>。</p><p><code>cmake</code>官方为我们提供了各个版本的源码包，列表链接为：</p><div class='tag-link-1'><a class="tag-Link" target="_blank" href=" https://cmake.org/files">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/cmake.org/files.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">cmake官网</div>            <div class="tag-link-sitename"> https://cmake.org/files</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div><p><img src="https://cdn.staticaly.com/gh/liaojie1314/PicGo@master/images/20230405155802.png" alt="image-20230405154931293"></p><p>访问源码包列表链接，可以选择我们指定的版本下载安装。</p><p>目前最新版本是<code>cmake 3.26.3</code>。</p><h3 id="下载cmake-3-26-3">下载<code>cmake 3.26.3 </code></h3><p>在喜欢的路径下，执行:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo wget https://cmake.org/files/LatestRelease/cmake-3.26.3.tar.gz</span><br></pre></td></tr></table></figure><h3 id="解压">解压</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo tar -zxvf cmake-3.26.3.tar.gz</span><br></pre></td></tr></table></figure><p>解压后，会在当前路径下生成一个<code>cmake-3.26.3</code>文件夹。</p><p>进入<code>cmake-3.23.0</code>文件夹中：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd cmake-3.23.0</span><br></pre></td></tr></table></figure><h3 id="安装">安装</h3><p><strong>第一步：</strong></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo ./configure</span><br></pre></td></tr></table></figure><p>如果报错<code>Could NOT find OpenSSL</code></p><p>解决：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get -y install libssl-dev</span><br></pre></td></tr></table></figure><p>然后，重新执行:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo ./configure </span><br></pre></td></tr></table></figure><p><strong>第二步：</strong></p><p>执行<code>make</code>:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo make -j8 </span><br></pre></td></tr></table></figure><p><strong>第三步：</strong></p><p>执行<code>make install</code>:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo make install</span><br></pre></td></tr></table></figure><p>验证是否安装成功：</p><p><img src="https://cdn.staticaly.com/gh/liaojie1314/PicGo@master/images/20230405160206.png" alt="image-20230405160205894"></p><p>如果看到版本号，表示安装成功！</p><h2 id="卸载源码安装的cmake">卸载源码安装的<code>cmake</code></h2><p>注意，<code>sudo apt remove cmake</code> 命令无法卸载源码安装的<code>cmake</code>。</p><p>如需卸载源码安装的<code>cmake</code>，需要进入到安装时执行<code>make install</code>时的路径下， 执行卸载命令：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo make uninstall</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 安装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cmake </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MongoDB Realm</title>
       <link href="/posts/99ca06de.html"/>
       <url>/posts/99ca06de.html</url>
@@ -362,8 +387,6 @@
       
       
       <categories>
-          
-          <category> 数据库 </category>
           
           <category> 安装 </category>
           
