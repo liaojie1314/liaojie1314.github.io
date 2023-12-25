@@ -4,7 +4,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/manifest.json</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/link/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/movies/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,286 +31,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/tags/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/essay/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/fcircle/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/KamisatoAyaka/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/RaidenShogun/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/eula/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/nahida/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/nilou/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/ganyu/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/hutao/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/gallery/keqing/index.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/5784a051.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/7de8ab13.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/843cc845.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/67893972.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/1d8fb141.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/2a8a7182.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/3cbc0b96.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/40605bfe.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/a4d4b8b8.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/7b25d017.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/80a2964d.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/7e1ba8ba.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/49a93ae2.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/ec266f89.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/2bec93a8.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/10eeeb05.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/c78d1353.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/10e6fd9c.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/26aa5093.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/dcc57bca.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -319,7 +40,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/89e03522.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -328,43 +49,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/170c5cd0.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/d3b694df.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/f79f5101.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/935f2624.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/73362798.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -373,25 +58,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/5dda0ead.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/9ad3a763.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/f255ffad.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -400,7 +67,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/f66864f1.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -409,7 +76,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/about/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -418,7 +85,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/air-conditioner/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -427,7 +94,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/artitalk/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -436,25 +103,106 @@
   <url>
     <loc>https://www.yuanyuanblog.me/categories/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.yuanyuanblog.me/posts/b4b7793c.html</loc>
+    <loc>https://www.yuanyuanblog.me/essay/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.yuanyuanblog.me/posts/99ca06de.html</loc>
+    <loc>https://www.yuanyuanblog.me/fcircle/index.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/KamisatoAyaka/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/RaidenShogun/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/eula/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/nahida/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/nilou/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/ganyu/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/hutao/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/gallery/keqing/index.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -463,7 +211,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/eef9fa5c.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -472,7 +220,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/99e936c.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -481,7 +229,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/1479d6d2.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -490,7 +238,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/548ca625.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -499,7 +247,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/a50ff8aa.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -508,34 +256,241 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/bfba130d.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.yuanyuanblog.me/posts/bfa86649.html</loc>
+    <loc>https://www.yuanyuanblog.me/posts/5784a051.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/2eec1551.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.yuanyuanblog.me/posts/91c40536.html</loc>
+    <loc>https://www.yuanyuanblog.me/posts/7de8ab13.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/843cc845.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/67893972.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/1d8fb141.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/2a8a7182.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/3cbc0b96.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/40605bfe.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/a4d4b8b8.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/7b25d017.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/80a2964d.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/7e1ba8ba.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/49a93ae2.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/ec266f89.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/2bec93a8.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/10eeeb05.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/c78d1353.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/10e6fd9c.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/26aa5093.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/dcc57bca.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/d3b694df.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/f79f5101.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/935f2624.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/73362798.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/9ad3a763.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/f255ffad.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -544,16 +499,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/78cea6d8.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/38ea7f4b.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -562,16 +508,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/c24675b4.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yuanyuanblog.me/posts/5751eea2.html</loc>
-    
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -580,7 +517,7 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/83d775da.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -589,7 +526,70 @@
   <url>
     <loc>https://www.yuanyuanblog.me/posts/d7893ec2.html</loc>
     
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/b4b7793c.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/99ca06de.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/bfa86649.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/2eec1551.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/91c40536.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/38ea7f4b.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanyuanblog.me/posts/5751eea2.html</loc>
+    
+    <lastmod>2023-12-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -598,7 +598,7 @@
 
   <url>
     <loc>https://www.yuanyuanblog.me/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -606,182 +606,182 @@
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/Android/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/SQL/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/Quartus/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/Python/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/Scikit-Learn/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/C/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/cmd/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/dos/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/github-actions/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/git/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/golang/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/jupyter-notebook/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/mongodb/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/redis/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/sass/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/cmake/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/linux/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/less/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/HTML/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/kotlin/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/docker/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/css/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/C/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/tags/C/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -790,56 +790,56 @@
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E7%BC%96%E7%A8%8B%E8%BF%9B%E9%98%B6/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E5%AD%A6%E6%A0%A1/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yuanyuanblog.me/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2023-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
